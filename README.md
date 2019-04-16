@@ -1,5 +1,7 @@
 Basically it's a simple CRUD project, for Learning Vue.js.
 
+![Vue Demo](https://i.ibb.co/9sB6D3M/vuedemo.jpg)
+
 # Created with
 Vue.js, PHP, Axios, Bootstrap
 
