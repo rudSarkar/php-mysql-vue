@@ -1,0 +1,45 @@
+body {
+	background-color: #c9c9c9;
+}
+
+.logo-custom {
+    height: 35px;
+}
+
+.navbar.navbar-expand-lg.navbar-dark {
+    background-color: #222;
+}
+
+.tbody-custom {
+    background-color: #FFF;
+}
+
+.modal{
+	top: 99px;
+	left:0;
+	right:0;
+	bottom:0;
+	position: fixed;
+	background: #222;
+	margin: 0 auto;
+	display: block;
+	padding: 0;
+	height: 420px;
+	box-shadow: 0 0 130px 28px #00000073;
+}
+
+.modal-head{
+	background: #222;
+	color: #FFF;
+	padding: 5px;
+	font-size: 17px;
+	line-height: 32px;
+}
+
+.p-left {
+    margin-bottom: 0rem;
+}
+
+hr {
+	border-top: 2px solid rgba(171, 168, 168, 0.1);
+}
